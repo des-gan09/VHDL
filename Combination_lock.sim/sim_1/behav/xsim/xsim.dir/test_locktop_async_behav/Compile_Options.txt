@@ -1,1 +1,0 @@
--wto "0662fe731c074cfb8fb938d18f4e35d2" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "test_locktop_async_behav" "xil_defaultlib.test_locktop_async" -log "elaborate.log" 
