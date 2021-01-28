@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/desmo/Documents/UQ/Year 3/Sem 2/Csse4010/Prac2/Combination_lock/Combination_lock.srcs/sources_1/new/locktop_async.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'locktop_async'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/desmo/Documents/UQ/Year 3/Sem 2/Csse4010/Prac2/Combination_lock/Combination_lock.srcs/sim_1/new/test_locktop_async.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_locktop_async'
